@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "vite-project",
+    "slug": "vite-project",
+    "version": "0.0.0",
+    "sdkVersion": "51.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "android": {
+      "package": "a.android"
+    },
+    "ios": {
+      "bundleIdentifier": "a.android"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e641587f-35f2-4d4d-897e-8775663d9efb"
+      }
+    }
+  }
+}
