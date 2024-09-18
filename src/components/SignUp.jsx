@@ -1,5 +1,3 @@
-// import { useState, useEffect } from 'react';
-// import { View, Text, Button, TextInput, StyleSheet, ActivityIndicator, Alert } from 'react-native';
 
 
 const SignUp = () => {
